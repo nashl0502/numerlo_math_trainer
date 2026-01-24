@@ -38,8 +38,8 @@ Numerlo - Math Trainer offers two service tiers:
 
 Premium subscriptions are available through Apple's In-App Purchase system:
 
-- **Monthly Subscription:** $4.99 USD per month
-- **Annual Subscription:** $49.99 USD per year
+- **Monthly Subscription:** $3.99 USD per month
+- **Annual Subscription:** $39.99 USD per year
 
 Prices are in U.S. Dollars and may vary by region. Pricing is subject to change with notice.
 
